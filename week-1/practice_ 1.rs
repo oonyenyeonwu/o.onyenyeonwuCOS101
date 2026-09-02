@@ -1,3 +1,3 @@
-fn fn main() {
-println!(Welcome to COS101!);
+fn main() {
+	println!(“Welcome to COS101!”);
 }
